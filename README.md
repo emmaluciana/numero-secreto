@@ -18,4 +18,4 @@ El juego muestra pistas para guiar al jugador y lleva el conteo de intentos hast
 
 Podés jugar directamente sin descargar nada accediendo al siguiente enlace:
 
-👉 <a href="https://emmaluciana.github.io/numero-secreto/"></a>
+👉 https://emmaluciana.github.io/numero-secreto/
